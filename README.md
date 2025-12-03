@@ -1,1 +1,1 @@
-# xss
+<script>alert('XSS')</script>
